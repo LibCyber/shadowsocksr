@@ -29,3 +29,7 @@ htmlcov
 
 .DS_Store
 .idea
+
+userapiconfig.py
+user-config.json
+usermysql.json
